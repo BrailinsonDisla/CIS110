@@ -22,12 +22,11 @@ This repository hosts a series of code snippets and projects completed through U
          * `sudo apt-get install openjdk-15-jdk`
          
 ## Compiling & Running
-* **Compiling:** `file.java`
-
-   * `javac file.java`
-* **Running:** `file.java`
-
-   * `java file`
+* **Compiling:** `program.java`
+   * `javac program.java`
+      * *creates **`program.class`**
+* **Running:** `program.class`
+   * `java program`
 ------------------------------------
 FIX
 # **Project List**
