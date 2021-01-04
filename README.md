@@ -31,7 +31,7 @@ This repository hosts a series of code snippets and projects completed through U
 
 # **Project List**
 ### **1. Hello, World!**
-* *Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html)* | *[CIS110 F'20 - Scratch](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)*
+* *Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html)* | *[CIS110 F'20 - Hello, World!](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)*
 
 
 FIX UNDER
