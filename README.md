@@ -30,9 +30,11 @@ This repository hosts a series of code snippets and projects completed through U
 ------------------------------------
 
 # **Project List**
-### **1. Scratch Playground**
-* *Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)* | *[CS50 F'21 - Scratch](https://cs50.harvard.edu/x/2021/)*
-* *Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)*
+### **1. Hello, World!*
+* *Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html)* | *[CIS110 F'20 - Scratch](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)*
+
+
+FIX UNDER
 * *File: [SB3 File](Projects/1.%20Scratch%20Playground/Planets%20Spiral%20Orbit.sb3)*  
 > **Description:**
 >
