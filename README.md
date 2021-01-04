@@ -9,6 +9,7 @@ This repository hosts a series of code snippets and projects completed through U
 
 ## Cloud-Based Integrated Development Environment
 * [Repl.it IDE](https://repl.it/)
+   * *might require uploading and compiling of java files provided in class*
 
 ## Local Machine Integrated Development Environment
 * **OS:** Kali Linux
@@ -22,9 +23,13 @@ This repository hosts a series of code snippets and projects completed through U
          
 ## Compiling & Running
 * **Compiling:** `file.java`
-   * `sudo apt-get install openjdk-15-jdk`
-------------------------------------
 
+   * `javac file.java`
+* **Running:** `file.java`
+
+   * `java file`
+------------------------------------
+FIX
 # **Project List**
 ### **1. Scratch Playground**
 * *Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)* | *[CS50 F'21 - Scratch](https://cs50.harvard.edu/x/2021/)*
