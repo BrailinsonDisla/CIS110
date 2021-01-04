@@ -24,11 +24,11 @@ This repository hosts a series of code snippets and projects completed through U
 ## Compiling & Running
 * **Compiling:** `program.java`
    * `javac program.java`
-      * *creates **`program.class`**
+      * creates **`program.class`**
 * **Running:** `program.class`
-   * `java program`
+   * `java program.class`
 ------------------------------------
-FIX
+
 # **Project List**
 ### **1. Scratch Playground**
 * *Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)* | *[CS50 F'21 - Scratch](https://cs50.harvard.edu/x/2021/)*
