@@ -5,22 +5,24 @@ This repository hosts a series of code snippets and projects completed through U
 
 *The programs are written in Java, the programming language used throughout both courses.*
 
-**Course Website:** [CIS110 2015 Website](https://www.cis.upenn.edu/~cis110/15fa/) | [CIS110 2021 Website](https://www.seas.upenn.edu/~cis110/20fa/)
+**Course Website:** [CIS110 2015 Website](https://www.cis.upenn.edu/~cis110/15fa/) | [CIS110 2020 Website](https://www.seas.upenn.edu/~cis110/20fa/)
 
 ## Cloud-Based Integrated Development Environment
-* [CS50 IDE](https://ide.cs50.io/)
-    * integrates the **`cs50.h`** header file
+* [Repl.it IDE](https://repl.it/)
 
 ## Local Machine Integrated Development Environment
 * **OS:** Kali Linux
     * [Download Binaries](https://cdimage.kali.org/)
-* **Compiler:** GCC v10.2.0
-    * [Installation Guide](https://gcc.gnu.org/install/)
+* **Compiler:** JavaC v15.0.1
     * Debian Installation
-         * `sudo apt-get install gcc`
-* **Debugger:** GDB v9.2
+         * `sudo apt-get install openjdk-15-jdk`
+* **Debugger:** JDB v15.0.1
     * Debian Installation
-         * `sudo apt-get install gdb`
+         * `sudo apt-get install openjdk-15-jdk`
+         
+## Compiling & Running
+* **Compiling:** `file.java`
+   * `sudo apt-get install openjdk-15-jdk`
 ------------------------------------
 
 # **Project List**
