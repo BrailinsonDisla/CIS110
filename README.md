@@ -35,5 +35,5 @@ This repository hosts a series of code snippets and projects completed through U
 * *File: [HelloWorld.java File](Projects/1.%20Hello%20World/HelloWorld.java)*
 > **Description:**
 >
-> This program simply prints "Hello, World" to the console; the traditional first program written by new programmers.
-> *Source code includes notes from class*
+> This program prints "Hello, World" to the console; a new programmer's traditional first written code.
+> * The source code includes notes from class that explain syntax and a few Java rules for beginners.*
