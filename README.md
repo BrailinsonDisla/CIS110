@@ -29,7 +29,7 @@ This repository hosts a series of code snippets and projects completed through U
    * `java program.class`
 ------------------------------------
 
-# **Code Snippets**
+# **Class Assignments**
 ### **1. Hello, World!**
 * *Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html)* | *[CIS110 F'20 - Hello, World!](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)*
 * *File: [Java File](Projects/1.%20Hello%20World/HelloWorld.java)*
