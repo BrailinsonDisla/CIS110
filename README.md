@@ -36,5 +36,4 @@ This repository hosts a series of code snippets and projects completed through U
 > **Description:**
 >
 > This program simply prints "Hello, World" to the console; the traditional first program written by new programmers.
-
 > *Source code includes notes from class*
