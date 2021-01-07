@@ -29,13 +29,11 @@ This repository hosts a series of code snippets and projects completed through U
    * `java program.class`
 ------------------------------------
 
-# **Project List**
+# **Code Snippets**
 ### **1. Hello, World!**
 * *Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html)* | *[CIS110 F'20 - Hello, World!](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)*
-
-
-FIX UNDER
-* *File: [SB3 File](Projects/1.%20Scratch%20Playground/Planets%20Spiral%20Orbit.sb3)*  
+* *File: [Java File](Projects/1.%20Hello%20World/HelloWorld.java)*
 > **Description:**
 >
-> This project implements a desgin of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
+> This program simply prints "Hello, World" to the console; the traditional first program written by new programmers.
+> *the source code includes notes from class *
