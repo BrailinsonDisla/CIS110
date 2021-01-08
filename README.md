@@ -36,3 +36,6 @@ This repository hosts a series of code snippets and projects completed through U
 > **Description:**
 >
 > This program prints "Hello, World" to the console; a new programmer's traditional first written program. *The source code file includes notes from class that explain Java's syntax and a few important introductory guidelines (or rules of Java) for beginners in the subject.*
+
+### **2. My Sketch**
+`DETAILS IN PROGRESS`
