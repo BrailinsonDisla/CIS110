@@ -32,7 +32,7 @@ This repository hosts a series of code snippets and projects completed through U
 * Assignment Link: [CIS110 F'15 - Hello, World!](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html) | [CIS110 F'20 - Hello, World!](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)
 * File: [HelloWorld.java](Projects/1.%20Hello%20World/HelloWorld.java)
 > **Description:** <br/> <br/>
-> This program prints "Hello, World" to the console; a new programmer's traditional first written program. *Source code file includes notes from class that explain Java's syntax and a few important introductory guidelines (or rules of Java) for beginners in the subject.*
+> This program prints "Hello, World" to the console; a new programmer's traditional first written program. *Source code file includes notes from class that explain Java's syntax and a few important introductory guidelines (the rules of Java) for beginners in the subject.*
 <br/>
 
 ### **2. My Sketch**
