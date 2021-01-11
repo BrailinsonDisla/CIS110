@@ -36,13 +36,17 @@ This repository hosts a series of code snippets and projects completed through U
 <br/>
 
 ### **2. My Sketch**
-`DETAILS IN PROGRESS`
+* Assignment Link: [CIS110 F'15 - MySketch](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html) | [CIS110 F'20 - MySketch](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)
+* File: [`name.c`](Projects/2.%20My%20Sketch/MySketch.java)
+> **Description:** <br/> <br/>
+> `DETAILS IN PROGRESS`
+<br/>
 
 <!--
 
 ### **X. Template**
-* Assignment Link: [CS50 F'20 - Name](https://linkfa20) | [CS50 S'21 - Name](https://linksp21)
-* File: [`name.c`](Projects/X.%20Template/name.c)
+* Assignment Link: [CIS110 F'15 - Name](https://linkfa20) | [CIS110 F'20 - Name](https://linksp21)
+* File: [`name.java`](Projects/X.%20Template/name.java)
 > **Description:** <br/> <br/>
 > `DETAILS IN PROGRESS`
 <br/>
