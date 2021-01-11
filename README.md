@@ -37,3 +37,14 @@ This repository hosts a series of code snippets and projects completed through U
 
 ### **2. My Sketch**
 `DETAILS IN PROGRESS`
+
+<!--
+
+### **X. Template**
+* Assignment Link: [CS50 F'20 - Name](https://linkfa20) | [CS50 S'21 - Name](https://linksp21)
+* File: [`name.c`](Projects/X.%20Template/name.c)
+> **Description:** <br/> <br/>
+> `DETAILS IN PROGRESS`
+<br/>
+
+-->
