@@ -5,7 +5,7 @@
  *  Compilation:  javac MySketch.java
  *  Execution:    java MySketch
  *
- *  This draws a series of rectangles of decreasing size.
+ *  Draws a series of rectangles of decreasing width and height.
  *
  *  % java MySketch
  ******************************************************************************/
