@@ -42,6 +42,13 @@ This repository hosts a series of code snippets and projects completed through U
 > This program uses the [`PennDraw.java`](Projects/2.%20My%20Sketch/PennDraw.java) library to draw a series of rectangles of multiple colours and successive decreasing size; creating a simple but interesting and abstract figure. Each iteration altenates between shrinking the width and height, either, by a factor of two.
 <br/>
 
+### **3. Race / Rivalry**
+* Assignment Link: [CIS110 F'15 - Race](https://www.cis.upenn.edu/~cis110/15fa/hw/hw01/interactive.html) | [CIS110 F'20 - Rivalry](https://www.seas.upenn.edu/~cis110/current/homework/rivalry_click_art.html)
+* File: [`Race.java`](Projects/3.%20Race/Race.java)
+> **Description:** <br/> <br/>
+> This program makes extensive use of the [`PennDraw.java`](Projects/3.%20Race/PennDraw.java) library, and its animation features to simulate a race between two lifelong rivals; the University of Pennsylvania and Princeton, each represented by their respective pennants in the simulation.
+<br/>
+
 <!--
 
 ### **X. Template**
