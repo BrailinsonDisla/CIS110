@@ -42,11 +42,11 @@ public class ClickArt {
 
         // draws the sky
         PennDraw.setPenColor(135, 200, 245);
-        //PennDraw.filledRectangle(x, yUpper, halfWidth, halfHeight / 2.0);
+        PennDraw.filledRectangle(x, yUpper, halfWidth, halfHeight / 2.0);
 
         // draws the grass
         PennDraw.setPenColor(0, 179, 120);
-        //PennDraw.filledRectangle(x, yLower, halfWidth, halfHeight / 2.0);
+        PennDraw.filledRectangle(x, yLower, halfWidth, halfHeight / 2.0);
 
         // draws the horizon
         PennDraw.setPenColor(PennDraw.BLACK);
@@ -54,28 +54,61 @@ public class ClickArt {
         PennDraw.line(XLOWER_BOUND, YLOWER_BOUND + halfHeight,
                         XUPPER_BOUND, YUPPER_BOUND - halfHeight);
 
-        boolean test = true;
+        int test = 0;
 
         // variable for random, and auxiliaries
-        double random = 0, xc = 0, yc = 0, r = 10, r1 = 0, r2 = 0;
+        double rand = 0, xCoor = 0, yCoor = 0, r = 1, angle = 120;
+        double excessA = 0, excessB = 0;
 
         // draws birds, clouds and ufos randomly
-        while (test) {
-            // randomizes the number
-            random = Math.random();
-            
-            // distribute probability
-            if (random < 1) {
+        while (test < 50) {
+            // random number to decide on next drawing
+            rand = Math.random();
+
+            // random location for drawing
+            xCoor = XLOWER_BOUND + (XUPPER_BOUND - XLOWER_BOUND) * Math.random();
+            yCoor = XLOWER_BOUND + halfHeight * (1 + Math.random());
+
+            // distribute ~evenly
+            if (rand < 0.33) {
+                // randomize size and length
+                r = 5 * Math.random();
+                angle = 60 + 60 * Math.random();
+
+                // calculate potential excess - left
+                excessA = r * Math.cos(Math.toRadians(angle));
+
+                // calculate potential excess - right
+                excessB = r * (2 + Math.cos(Math.toRadians(180 - angle)));
+
+                // adjust to keep within bounds - left
+                if (xCoor + excessA < XLOWER_BOUND) {
+                    xCoor = excessA + XLOWER_BOUND;
+                }
+
+                // adjust to keep within bounds - right
+                else if  (xCoor + excessB > XUPPER_BOUND) {
+                    xCoor = XUPPER_BOUND - excessB;
+                }
+
+                // calculate potential excess - up
+                excessA = r * Math.sin(Math.toRadians(angle));
+
+                // adjust to keep within bounds - up
+                if (yCoor + excessA > YUPPER_BOUND) {
+                    yCoor = YUPPER_BOUND - excessA;
+                }
+
                 // draws a bird
-                PennDraw.arc(xc, yc, r, 0, 135);
-                PennDraw.arc(xc + 2 * r, yc, r, 45, 180);
-            } else if (random < 0.66) {
+                PennDraw.arc(xCoor, yCoor, r, 0, angle);
+                PennDraw.arc(xCoor + 2 * r, yCoor, r, 180 - angle, 180);
+            } else if (rand < 0.66) {
                 // draws clouds
             } else {
                 // draws ufos
             }
 
-            test = !test;
+            test++;
         }
     }
 }
