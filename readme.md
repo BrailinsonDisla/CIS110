@@ -49,6 +49,17 @@ This repository hosts a series of code snippets and projects completed through U
 > This program makes extensive use of the [`PennDraw.java`](Projects/3.%20Race/PennDraw.java) library, and its animation features to simulate a race between two lifelong rivals; the University of Pennsylvania and Princeton, each represented by their respective pennants in the simulation.
 <br/>
 
+
+### **4. Interactive Drawing / Click Art**
+* Assignment Link: [CIS110 F'15 - Interactive Drawing](https://www.cis.upenn.edu/~cis110/15fa/hw/hw01/interactive.html) | [CIS110 F'20 - ClickArt](https://www.seas.upenn.edu/~cis110/current/homework/rivalry_click_art.html)
+* File: [`ClickArt.java`](Projects/4.%20ClickArt/ClickArt.java)
+> **Description:** <br/> <br/>
+> This program makes extensive use of the [`PennDraw.java`](Projects/4.%20ClickArt/PennDraw.java) library, its animation features, and its key and mouse activity tracking abilities to provide an interactive drawing environment for the user. The environment features a sky, where birds and UFOs, seldomly, are randomly drawn; and the the green land below the horizon, where grass is randomly drawn.
+> * `ANY KEY PRESS` : The background is newly drawn, as well as random drawings
+> * `Click, Above Horizon`: Draws a cloud
+> * `Click, Below Horizon`: Draws a tree
+<br/>
+
 <!--
 
 ### **X. Template**
