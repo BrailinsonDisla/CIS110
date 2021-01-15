@@ -55,6 +55,10 @@ This repository hosts a series of code snippets and projects completed through U
 * File: [`ClickArt.java`](Projects/4.%20ClickArt/ClickArt.java)
 > **Description:** <br/> <br/>
 > `DETAILS IN PROGRESS`
+> This program makes extensive use of the [`PennDraw.java`](Projects/4.%20ClickArt/PennDraw.java) library, its animation features and its key strokes and mouse (click) tracking features to provide an interactive drawing environment for the user. The environment features the sky, where birds and UFOs (seldomly) are randomly drawn; and the the green land, where grass is randomly drawn as well.
+> * `ANY KEY PRESS` : The background is newly drawn, as well as random drawings
+> * `Click Above Horizon`: Draws a cloud (scaled from horizon)
+> * `Click Below Horizon`: Draws a tree (scaled from horizon)
 <br/>
 
 <!--
