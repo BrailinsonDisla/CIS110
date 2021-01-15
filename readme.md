@@ -49,6 +49,14 @@ This repository hosts a series of code snippets and projects completed through U
 > This program makes extensive use of the [`PennDraw.java`](Projects/3.%20Race/PennDraw.java) library, and its animation features to simulate a race between two lifelong rivals; the University of Pennsylvania and Princeton, each represented by their respective pennants in the simulation.
 <br/>
 
+
+### **4. Interactive Drawing / Click Art**
+* Assignment Link: [CIS110 F'15 - Interactive Drawing](https://www.cis.upenn.edu/~cis110/15fa/hw/hw01/interactive.html) | [CIS110 F'20 - ClickArt](https://www.seas.upenn.edu/~cis110/current/homework/rivalry_click_art.html)
+* File: [`ClickArt.java`](Projects/4.%20ClickArt/ClickArt.java)
+> **Description:** <br/> <br/>
+> `DETAILS IN PROGRESS`
+<br/>
+
 <!--
 
 ### **X. Template**
