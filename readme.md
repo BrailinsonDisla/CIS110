@@ -19,7 +19,7 @@ This repository hosts a series of code snippets and projects completed through U
 * **Debugger:** JDB v15.0.1
     * Debian Installation
          * `sudo apt-get install openjdk-15-jdk`
-         
+
 ## Compiling & Running
 * **Compiling:** `program.java`
    * `javac program.java`
@@ -39,7 +39,7 @@ This repository hosts a series of code snippets and projects completed through U
 * Assignment Link: [CIS110 F'15 - MySketch](https://www.cis.upenn.edu/~cis110/15fa/hw/hw00/hello.html) | [CIS110 F'20 - MySketch](https://www.seas.upenn.edu/~cis110/current/homework/hello_world.html)
 * File: [`MySketch.java`](Projects/2.%20My%20Sketch/MySketch.java)
 > **Description:** <br/> <br/>
-> This program uses the [`PennDraw.java`](Projects/2.%20My%20Sketch/PennDraw.java) library to draw a series of rectangles of multiple colours and successive decreasing size; creating a simple but interesting and abstract figure. Each iteration altenates between shrinking the width and height, either, by a factor of two.
+> This program uses the [`PennDraw.java`](Projects/2.%20My%20Sketch/PennDraw.java) library to draw a series of rectangles of multiple colours and successive decreasing size; creating a simple but interesting and abstract figure. Each iteration alternates between shrinking the width and height, either, by a factor of two.
 <br/>
 
 ### **3. Race / Rivalry**
